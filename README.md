@@ -11,5 +11,6 @@
 Фьюзы для работы AVR на 9.6Mhz - Low: 0x6A, High: 0xFA.<br>
 Выбор частоты 4.8/9.6 фьюзами в прошивке определяется автоматически.<br>
 
+![alt tag](https://raw.githubusercontent.com/vad7/WaterCounter-pulse_out/main/Zenner%20ETK.png)
 
-![alt tag](https://github.com/vad7/Water-Counter-pulse-out-/blob/main/photo_1.jpg?raw=true)
+![alt tag](https://github.com/vad7/WaterCounter-pulse_out/blob/main/photo_1.jpg?raw=true)
